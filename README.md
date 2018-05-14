@@ -12,3 +12,10 @@ Once the user presses enter the item list prints to the node console and the use
 <img width="498" alt="screen shot 2018-05-13 at 8 39 39 pm" src="https://user-images.githubusercontent.com/33705748/39977406-a1928cc4-56ee-11e8-8fe6-2c302282113d.png">
 
 After selecting the product and quantity the databse is updated and the total cost of their purchase is displayed. The program then returns to the storefront prompt.
+
+<img width="582" alt="screen shot 2018-05-13 at 8 50 19 pm" src="https://user-images.githubusercontent.com/33705748/39977515-51910858-56ef-11e8-9d9f-7f1cf848070c.png">
+
+As you can see, the product stock that the user selected with the item_id of 1 has been reduced by the quantity that they requested.
+
+If the user tries to select a product that has no id number the program will inform them of the error and return to the opening storefront. Also, if the user tries to purchase an item in a higher quntity than is in stock the program will inform then and return to the opening storefront. (No database information will be affected).
+
