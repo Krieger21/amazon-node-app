@@ -19,3 +19,9 @@ As you can see, the product stock that the user selected with the item_id of 1 h
 
 If the user tries to select a product that has no id number the program will inform them of the error and return to the opening storefront. Also, if the user tries to purchase an item in a higher quntity than is in stock the program will inform then and return to the opening storefront. (No database information will be affected).
 
+<img width="456" alt="screen shot 2018-05-13 at 8 55 17 pm" src="https://user-images.githubusercontent.com/33705748/39977611-0d964040-56f0-11e8-8472-cb93c373e5dd.png">
+
+<img width="591" alt="screen shot 2018-05-13 at 8 57 27 pm" src="https://user-images.githubusercontent.com/33705748/39977654-497becfe-56f0-11e8-81b8-7b4d623eb2bc.png">
+
+
+<img width="588" alt="screen shot 2018-05-13 at 8 55 35 pm" src="https://user-images.githubusercontent.com/33705748/39977614-0fda8c26-56f0-11e8-83f8-6664adbe7395.png">
